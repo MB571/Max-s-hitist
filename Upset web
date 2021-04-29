@@ -5,9 +5,9 @@
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Gene" },
+		{ "type": "id", "index": 0, "name": "Gene" }
 		],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 7 },
+		{ "format": "binary", "start": 2, "end": 7 }
 	]
 }
