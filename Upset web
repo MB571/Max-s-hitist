@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/MB571/Max-s-hitist/main/final_hit.csv",
 	"name": "Max Hitlist",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{
