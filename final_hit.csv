@@ -1,4 +1,4 @@
-Gene,Normal to tumour,Normal to sun damaged,Sun damaged to tumour,Normal to invasive,Sun damaged to invasive,Tumour to invasive
+Gene,Normal to tumour,Normal to damaged,Damaged to tumour,Normal to invasive,Damaged to invasive,Tumour to invasive
 A1BG-AS1,0,0,0,0,0,0
 A2M-AS1,0,0,0,0,0,0
 AADACL2-AS1,0,1,0,0,0,0
