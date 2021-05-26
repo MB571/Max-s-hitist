@@ -1,4 +1,4 @@
-Gene,Normal_to_tumour,Normal_to_damaged,Damaged_to_tumour,Normal_to_invasive,Damaged_to_invasive,Tumour_to_invasive
+Gene,Normal_to_tumour,Normal_to_Damaged,Damaged_to_tumour,Normal_to_invasive,Damaged_to_invasive,Tumour_to_invasive
 A1BG-AS1,0,0,0,0,0,0
 A2M-AS1,0,0,0,0,0,0
 AADACL2-AS1,0,1,0,1,0,0
