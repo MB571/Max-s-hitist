@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/MB571/Max-s-hitist/main/Hitlist%20upreg.genes.csv",
-	"name": "Max Hitlist",
+	"file": "https://raw.githubusercontent.com/MB571/Max-s-hitist/main/Progenitor%20vs%20Diff%20Hitlist.genes.csv",
+	"name": "Prog Hitlist",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
