@@ -1,4 +1,4 @@
-Gene,Normal_to_tumour,Normal_to_sun_damaged,Sun_damaged_to_tumour,Normal_to_invasive,Sun_damaged_to_invasive,Tumour_to_invasive
+Gene,High Diff to Mod Prog,High Diff to Mod Diff,Mod Diff to Mod Prog,High Diff to High Prog,Mod Diff to High Prog,Mod Prog to High Prog
 A1BG-AS1,0,0,0,0,0,0
 A2M-AS1,0,0,0,0,0,0
 AADACL2-AS1,0,0,0,0,0,0
