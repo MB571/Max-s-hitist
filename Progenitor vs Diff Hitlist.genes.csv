@@ -1,4 +1,4 @@
-Gene,High Diff to Mod Prog,High Diff to Mod Diff,Mod Diff to Mod Prog,High Diff to High Prog,Mod Diff to High Prog,Mod Prog to High Prog
+Gene,Diff_to_Mod_Prog,Diff_to_Mod_Diff,Mod_Diff_to_Mod_Prog,Diff_to_Prog,Mod_Diff_to_Prog,Mod_Prog_to_Prog
 A1BG-AS1,0,0,0,0,0,0
 A2M-AS1,0,0,0,0,0,0
 AADACL2-AS1,0,0,0,0,0,0
