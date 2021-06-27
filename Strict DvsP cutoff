@@ -1,0 +1,21 @@
+{
+	"file": "https://raw.githubusercontent.com/MB571/Max-s-hitist/stricter/uPREG_DvsP_hitlist.genes.csv",
+	"name": "Prog Hitlist",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{
+			"type": "id",
+			"index": 0,
+			"name": "Gene"
+		}
+	],
+	"sets": [
+		{
+			"format": "binary",
+			"start": 1,
+			"end": 6
+		}
+	]
+}
