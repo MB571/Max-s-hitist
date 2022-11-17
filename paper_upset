@@ -1,6 +1,7 @@
+
 {
 	"file": "https://github.com/MB571/Max-s-hitist/blob/main/upset_global.csv",
-	"name": "Global geneset",
+	"name": "Prog Hitlist",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
@@ -8,7 +9,7 @@
 		{
 			"type": "id",
 			"index": 0,
-			"name": "Symbol"
+			"name": "Gene"
 		}
 	],
 	"sets": [
