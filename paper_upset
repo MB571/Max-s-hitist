@@ -9,7 +9,7 @@
 		{
 			"type": "id",
 			"index": 0,
-			"name": "Gene"
+			"name": "Symbol"
 		}
 	],
 	"sets": [
