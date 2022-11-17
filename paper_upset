@@ -1,0 +1,21 @@
+{
+	"file": "https://github.com/MB571/Max-s-hitist/blob/main/upset_global.csv",
+	"name": "Global geneset",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{
+			"type": "id",
+			"index": 0,
+			"name": "Symbol"
+		}
+	],
+	"sets": [
+		{
+			"format": "binary",
+			"start": 1,
+			"end": 6
+		}
+	]
+}
