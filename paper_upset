@@ -1,7 +1,7 @@
 
 {
-	"file": "https://github.com/MB571/Max-s-hitist/blob/main/upset_global.csv",
-	"name": "Prog Hitlist",
+	"file": "https://raw.githubusercontent.com/MB571/Max-s-hitist/main/upset_global.csv",
+	"name": "Upset paper",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
